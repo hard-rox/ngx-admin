@@ -1,17 +1,4 @@
 import { NgModule } from '@angular/core';
-import {
-  NbMenuModule,
-  NbCardModule,
-  NbLayoutModule,
-  NbUserModule,
-  NbActionsModule,
-  NbSearchModule,
-  NbSidebarModule,
-  NbContextMenuModule,
-  NbButtonModule,
-  NbSelectModule,
-  NbIconModule
-} from '@nebular/theme';
 
 import { ThemeModule } from '../@theme/theme.module';
 import { PagesComponent } from './pages.component';
