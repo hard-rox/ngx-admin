@@ -41,7 +41,6 @@ const NB_MODULES = [
 @NgModule({
   imports: [CommonModule, ...NB_MODULES],
   exports: [CommonModule, ...NB_MODULES],
-  //declarations: [...COMPONENTS, ...PIPES],
 })
 export class ThemeModule {
   static forRoot(): ModuleWithProviders<ThemeModule> {

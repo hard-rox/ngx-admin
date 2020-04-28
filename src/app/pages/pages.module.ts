@@ -44,7 +44,7 @@ const COMPONENTS = [
   declarations: [
     PagesComponent,
     ...COMPONENTS,
-    SmartTableComponent,
+    SmartTableComponent, // Sample...
   ],
 })
 export class PagesModule {
