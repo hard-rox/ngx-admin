@@ -19,7 +19,7 @@ import { NbSecurityModule } from '@nebular/security';
 import {
   FooterComponent,
   HeaderComponent,
-  SearchInputComponent
+  SearchInputComponent,
 } from '../components';
 import {
   CapitalizePipe,
