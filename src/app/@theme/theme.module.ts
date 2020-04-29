@@ -35,7 +35,7 @@ const NB_MODULES = [
   NbSelectModule,
   NbIconModule,
   NbEvaIconsModule,
-  NbCardModule,
+  NbCardModule
 ];
 
 @NgModule({
